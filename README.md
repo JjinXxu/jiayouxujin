@@ -29,17 +29,6 @@ Git Config   17 mins         ▒░░░░░░░░░░░░░░░░
  
 </td>
 </tr>
-<tr>
-<td>
-<p align="center"><a href="https://github.com/jiayouxujin"><img src="https://github-readme-stats.vercel.app/api?username=jiayouxujin&hide_border=true&show_icons=true" alt="Jiayouxujin's github stats"></a></p>
-
-</td>
-<td>
-<a href="https://github.com/jiayouxujin">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayouxujin" />
-</a>
-</td>
-</tr>
 </table>
 
 

@@ -12,7 +12,7 @@
               <img src="https://visitor-badge.glitch.me/badge?page_id=jiayouxujin" alt="vistors" />
             </p> -->
             <ul>
-                <li>🌱 I’m currently learning CS-knoledge</li>
+                <li>🌱 I’m currently learning CS-knowledge</li>
                 <li>💬 Ask me about everything but no answer is promised</li>
             </ul>
         </td>

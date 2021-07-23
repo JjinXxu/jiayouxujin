@@ -1,37 +1,48 @@
-<h2 align="center"> Hi, I'm Xu Jin 👋 </h2>
 
-<table>
-    <tr>
-        <td valign="center" width="50%">
-            ![](https://github-readme-stats.vercel.app/api?username=jiayouxujin)
-            <ul>
-                <li>🌱 I’m currently learning CS-knowledge</li>
-                <li>💬 Ask me about everything but no answer is promised</li>
-            </ul>
-        </td>
-       <td valign="top" width="50%">
-    
+## Hi I'm Xu Jin 👋
+![](https://komarev.com/ghpvc/?username=jiayouxujin&color=brightgreen&label=PROFILE+VIEWS)
+
+
+
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+#### 🏋️‍♀️ <a href="https://github.com/jiayouxujin" target="_blank">Talking about Personal Stuffs</a>
+<!-- recent_releases starts -->
+
+- ⚡  I'm now learning CS-Knowledges.  
+- 🏊‍♂️ Languages and Tools: Go、Java、Python、C
+<!-- recent_releases ends -->
+</td>
+<td>
+ 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
 ```text
-💬 Programming Languages: 
-C++                      8 hrs 57 mins       ██████████████████████░░░   89.45% 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Objective-C              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-C                        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-🔥 Editors: 
-VS Code                  10 hrs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    10 hrs              █████████████████████████   100.0%
-
+C          4 hrs 57 mins   ███████████████████▒░░░░░   77.53 % 
+Python     52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Text       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+S          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
-
-
- Last Updated on 22/07/2021
 <!--END_SECTION:waka-->
-</td></tr>
+ 
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"><a href="https://github.com/jiayouxujin"><img src="https://github-readme-stats.vercel.app/api?username=jiayouxujin&hide_border=true&show_icons=true" alt="Jiayouxujin's github stats"></a></p>
+
+</td>
+<td>
+<a href="https://github.com/jiayouxujin">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiayouxujin" />
+</a>
+</td>
+</tr>
 </table>
+
+
+
+
+

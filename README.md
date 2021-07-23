@@ -3,9 +3,7 @@
 <table>
     <tr>
         <td valign="center" width="50%">
-            <p align="center">
-                ![](https://github-readme-stats.vercel.app/api?username=jiayouxujin)
-            </p>
+            ![](https://github-readme-stats.vercel.app/api?username=jiayouxujin)
             <ul>
                 <li>🌱 I’m currently learning CS-knowledge</li>
                 <li>💬 Ask me about everything but no answer is promised</li>

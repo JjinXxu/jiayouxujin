@@ -20,8 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSV/TSV   10 mins         ████████████████░░░░░░░░░   64.52 %
-Python    5 mins          █████████░░░░░░░░░░░░░░░░   35.48 %
+Python           22 mins         ████████████████████▓░░░░   82.22 %
+GitIgnore file   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Markdown         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->

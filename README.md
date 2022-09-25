@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           22 mins         ████████████████████▓░░░░   82.22 %
-GitIgnore file   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Markdown         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

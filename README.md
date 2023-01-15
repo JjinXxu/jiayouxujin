@@ -20,11 +20,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           3 hrs 31 mins   ███████████████████████▒░   93.66 %
-Markdown         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-PythonStub       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python           2 hrs 51 mins   ████████████████████████▓   98.23 %
+PythonStub       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

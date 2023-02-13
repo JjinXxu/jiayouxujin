@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go       37 mins         █████████████▒░░░░░░░░░░░   53.19 %
+Python   30 mins         ██████████▓░░░░░░░░░░░░░░   42.84 %
+YAML     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

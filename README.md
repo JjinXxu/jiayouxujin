@@ -20,9 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go               4 hrs 15 mins   ████████████████████████▓   99.06 %
-CSV/TSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Go   5 hrs 16 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

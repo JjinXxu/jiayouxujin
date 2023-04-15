@@ -1,5 +1,5 @@
 
-## Hi I'm Xu Jin 👋
+## Hi I'm Jin Xu 👋
 ![](https://komarev.com/ghpvc/?username=jiayouxujin&color=brightgreen&label=PROFILE+VIEWS)
 
 

@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       2 mins          ████████████████▒░░░░░░░░   64.73 %
-YAML           0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Shell Script   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Docker         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Go             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

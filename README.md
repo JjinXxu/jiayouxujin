@@ -20,11 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           3 mins          ██████████████████████▒░░   89.02 %
-YAML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-SSH Config   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

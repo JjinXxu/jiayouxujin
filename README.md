@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           3 hrs 4 mins    █████████████████▒░░░░░░░   68.87 %
-Markdown         1 hr 17 mins    ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-YAML             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python            3 hrs 43 mins   ██████████████████░░░░░░░   71.43 %
+Markdown          1 hr 17 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
+Protocol Buffer   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+YAML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
